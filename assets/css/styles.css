@@ -1,0 +1,28 @@
+/* Forgot password */
+#forgot-password a{
+    text-decoration: none;
+    color: var(--color-dark-50);
+    font-size: 12px;
+}
+
+#forgot-password a:hover{
+    color: var(--color-purple-50);
+}
+
+/* Login Button*/
+#login-button{
+    border: none;
+    background: var(--color-gradient);
+    padding: 7px;
+    border-radius: 3px;
+    color: var(--color-light-50);
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#login-button:hover{
+    transform: scale(1.05);
+}
+
+
